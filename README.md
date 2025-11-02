@@ -6,7 +6,7 @@ My First repository
 
 **Warfare** is a gripping and emotional film produced by **A24**
 It explores the **realities of war**, the **psychological toll** on soldiers, and the **moral questions** that arise when survival becomes the only goal. 
-The film is known for its **cinematic brilliance**, **haunting soundtracks**, and **thought provoking themes**.
+The film is known for its **cinematic brilliance**, **haunting soundtracks**, and **thought-provoking themes**.
 
 ## Plot Summary 
 The story follows a group of SEAL teams  caught in the chaos of an unnamed conflict.
